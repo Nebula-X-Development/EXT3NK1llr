@@ -18,7 +18,7 @@ Go to the extension page you previously opened and switch the switch to allow fi
 Once done, alt-tab and close the window with all the extension pages. Then, search freely. This will last around 5 minutes. The more tabs you add to the folder, the longer it lasts. 
 If your computer crashes, try fewer bookmarks in the folder. 400-600
 To revert this, just restart your computer.
->[warning] This exploit will bypass blocking extensions, and I'm not responsible for any consequences you face during or after the use of this exploit. Use at your own risk
+>[!WARNING] This exploit will bypass blocking extensions, and I'm not responsible for any consequences you face during or after the use of this exploit. Use at your own risk
 
 # Credits
   [Me :3](https://github.com/Nebula-X-Development)
