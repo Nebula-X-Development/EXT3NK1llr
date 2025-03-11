@@ -21,6 +21,8 @@ Ext3nk1llr or (extension killer) is a new chrome os exploit that allows you to t
 11. To revert this, just restart your computer.
 >[!WARNING]
 >This exploit will bypass blocking extensions, and I'm not responsible for any consequences you face during or after the use of this exploit. Use at your own risk
+# Important
+ok, so I just now was told this is almost exactly like LTMEAT extension freeze. I had no clue abt this or that or that even existed. And I'd say all credit for the original exploit goes to them. But I'll still leave this up. Here's the link to that. https://chrose.netlify.app/detail/ltmeat%20flood/ 
 
 # Credits
   [Me :3](https://github.com/Nebula-X-Development)
