@@ -9,15 +9,25 @@ And bookmarks (not bookmarklets)
 
 **Instructions**
 Go to chrome://bookmarks and make a new folder.
+
 Then go to chrome://-the extension you want to kill-/
+
 Copy the URL of the extension page, then go to  the bookmarks page.
+
 Once there, paste the url as  a new bookmark. Make about 800-1000 bookmarks in that folder.
+
 Then, open up the extension page for your extension. Keep that open
+
 Once done, find the folder and right-click it. Click (open all (number of pages) pages IN NEW WINDOW)
+
 Then click open. Wait around a minute. (This will lag your computer.) 
+
 Go to the extension page you previously opened and switch the switch to allow file URLs a few times. 
+
 Once done, alt-tab and close the window with all the extension pages. Then, search freely. This will last around 5 minutes. The more tabs you add to the folder, the longer it lasts. 
+
 If your computer crashes, try fewer bookmarks in the folder. 400-600
+
 To revert this, just restart your computer.
 >[!WARNING]
 >This exploit will bypass blocking extensions, and I'm not responsible for any consequences you face during or after the use of this exploit. Use at your own risk
