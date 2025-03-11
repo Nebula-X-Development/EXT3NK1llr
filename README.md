@@ -4,31 +4,21 @@ Ext3nk1llr or (extension killer) is a new chrome os exploit that allows you to t
 > It is recommended that you disable v8 optimiser (chrome://settings/content/v8) before using this exploit. It will perform better and reduce crashing. credit to [Blobby-boi](https://github.com/blobby-boi)
 # Instructions
 **requirements:**
-chrome://extensions
-And bookmarks (not bookmarklets)
+1. chrome://extensions 
+2. And bookmarks (not bookmarklets)
 
 **Instructions**
-Go to chrome://bookmarks and make a new folder.
-
-Then go to chrome://-the extension you want to kill-/
-
-Copy the URL of the extension page, then go to  the bookmarks page.
-
-Once there, paste the url as  a new bookmark. Make about 800-1000 bookmarks in that folder.
-
-Then, open up the extension page for your extension. Keep that open
-
-Once done, find the folder and right-click it. Click (open all (number of pages) pages IN NEW WINDOW)
-
-Then click open. Wait around a minute. (This will lag your computer.) 
-
-Go to the extension page you previously opened and switch the switch to allow file URLs a few times. 
-
-Once done, alt-tab and close the window with all the extension pages. Then, search freely. This will last around 5 minutes. The more tabs you add to the folder, the longer it lasts. 
-
-If your computer crashes, try fewer bookmarks in the folder. 400-600
-
-To revert this, just restart your computer.
+1. Go to chrome://bookmarks and make a new folder. 
+2. Then go to chrome://-the extension you want to kill-/
+3. Copy the URL of the extension page, then go to  the bookmarks page.
+4. Once there, paste the url as  a new bookmark. Make about 800-1000 bookmarks in that folder.
+5. Then, open up the extension page for your extension. Keep that open
+6. Once done, find the folder and right-click it. Click (open all (number of pages) pages IN NEW WINDOW)
+7. Then click open. Wait around a minute. (This will lag your computer.) 
+8. Go to the extension page you previously opened and switch the switch to allow file URLs a few times. 
+9. Once done, alt-tab and close the window with all the extension pages. Then, search freely. This will last around 5 minutes. The more tabs you add to the folder, the longer it lasts. 
+10. If your computer crashes, try fewer bookmarks in the folder. 400-600
+11. To revert this, just restart your computer.
 >[!WARNING]
 >This exploit will bypass blocking extensions, and I'm not responsible for any consequences you face during or after the use of this exploit. Use at your own risk
 
